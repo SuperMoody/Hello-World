@@ -1,11 +1,11 @@
 # Hello-World
 
-<title> Just <title/> 
-  <header> started <header/>
+<header> Just <header/> 
+  <body> started <body/>
   the 
     guide :)
 
-Hi 
+<header>Hi <header/> 
   guys , I'm learning how to make a change in my branch 
 so 
   that I can merge it finally to the master .
